@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>   
+<LinearLayout   xmlns:android="http://schemas.android.com/apk/res/android"   
+	android:layout_width="fill_parent"   
+	android:layout_height="fill_parent"   
+	android:orientation="vertical">
+	<EditText
+	android:layout_width="fill_parent"   
+	android:layout_height="50dp"
+	android:id="@+id/case_edit_name"   
+	android:singleLine="true"
+	android:hint="在此处输入任务名"
+	android:inputType="text"
+	></EditText>    
+
+</LinearLayout>  
+
